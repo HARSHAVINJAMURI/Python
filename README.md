@@ -23,6 +23,11 @@ This repository contains everything you need to **learn Python from scratch** an
 
 ---
 
+## 🌐 Python Website  
+🔗 **Visit Here:** [Python Website](https://www.notion.so/PYTHON-18a83126e533800ba3c7d565a5a0ae6c?pvs=4)  
+
+---
+
 ## 🚀 How to Use This Repository?  
 1️⃣ **Start with "Python with Examples"** – Get familiar with the basics.  
 2️⃣ **Follow the Study Schedule** – Stay on track with your learning.  
